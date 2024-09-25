@@ -1,0 +1,20 @@
+#pic{
+    height: 250px;
+    background-image: url(./images/our-vision.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.sh{
+    text-shadow: 2px 2px 2px black;
+    font-size: 80px;
+    
+}
+/* .hs{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+} */
